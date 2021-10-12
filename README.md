@@ -1,5 +1,5 @@
 # CRUD-simple-PHP
-Program CRUD sederhana dibuat dengan bahasa PHP dengan database MySQL
+Program CRUD sederhana dibuat dengan bahasa PHP dengan RDBMS MySQL
 cocok bagi yang ingin belajar membuat CRUD
 
 Cara pasang
